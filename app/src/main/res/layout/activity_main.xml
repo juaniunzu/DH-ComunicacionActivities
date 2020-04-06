@@ -82,7 +82,8 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:text="Enviar"
-            android:layout_weight="0.5"/>
+            android:layout_weight="0.5"
+            android:id="@+id/buttonEnviar"/>
 
     </LinearLayout>
 
